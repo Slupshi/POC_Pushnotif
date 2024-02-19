@@ -16,7 +16,6 @@
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
     <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
     <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
-    <AndroidUseLatestPlatformSdk>false</AndroidUseLatestPlatformSdk>
     <TargetFrameworkVersion>v13.0</TargetFrameworkVersion>
     <AndroidEnableSGenConcurrent>true</AndroidEnableSGenConcurrent>
     <AndroidUseAapt2>true</AndroidUseAapt2>
@@ -100,7 +99,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\POC_Pushnotif\POC_Pushnotif.csproj">
-      <Project>{A1282118-A9E8-4A06-A389-C998ACD29CE1}</Project>
+      <Project>{9C054D75-4D22-4987-97CC-EAD11E838798}</Project>
       <Name>POC_Pushnotif</Name>
     </ProjectReference>
   </ItemGroup>
