@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "452980362231",
+    "project_id": "poc-push-kmo",
+    "storage_bucket": "poc-push-kmo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452980362231:android:76e18ac40af4af08c3fcf2",
+        "android_client_info": {
+          "package_name": "com.companyname.poc_pushnotif"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0B2Exp_NzL-77_-yPMxnjnjtcZzeTi9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
